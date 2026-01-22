@@ -3,7 +3,7 @@ window.videoData = [
     "id": "5d65861f-a939-45b0-84a4-cd5637c52b83",
     "title": "SVID 20260120 190228 1",
     "description": "",
-    "date": "2026-01-22T07:30:01.613Z",
+    "date": "2026-01-22T07:42:34.121Z",
     "playlist": "videos/5d65861f-a939-45b0-84a4-cd5637c52b83/playlist.m3u8",
     "thumbnail": "videos/5d65861f-a939-45b0-84a4-cd5637c52b83/thumb.jpg"
   },
